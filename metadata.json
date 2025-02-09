@@ -21,9 +21,10 @@
     "category": "image",
     "creators": [
       {
-        "address": "64KqwuX1jQHTezt3uvRcFn23DyZf4nzJNJPg9cKPTbEM",  // Replace with your wallet address
+        "address": "64KqwuX1jQHTezt3uvRcFn23DyZf4nzJNJPg9cKPTbEM",
         "share": 100
       }
     ]
   }
 }
+
