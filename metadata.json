@@ -1,0 +1,13 @@
+{
+  "name": "FAK Trump",
+  "symbol": "FKT",
+  "description": "Self-explanatory",
+  "image": "https://github.com/Gal3434/FAKTrumpCoin/blob/main/icont.jpeg?raw=true",
+  "external_url": "https://sites.google.com/view/faktrump/home",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    }
+  ]
+}
