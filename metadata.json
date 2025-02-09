@@ -4,11 +4,26 @@
   "description": "Self-explanatory",
   "image": "https://github.com/Gal3434/FAKTrumpCoin/blob/main/icont.jpeg?raw=true",
   "external_url": "https://sites.google.com/view/faktrump/home",
+  "seller_fee_basis_points": 500,
   "attributes": [
     {
       "trait_type": "Category",
       "value": "Utility"
     }
   ],
-  "uri": "https://raw.githubusercontent.com/Gal3434/FAKTrumpCoin/refs/heads/main/metadata.json"
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/Gal3434/FAKTrumpCoin/blob/main/icont.jpeg?raw=true",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "64KqwuX1jQHTezt3uvRcFn23DyZf4nzJNJPg9cKPTbEM",  // Replace with your wallet address
+        "share": 100
+      }
+    ]
+  }
 }
